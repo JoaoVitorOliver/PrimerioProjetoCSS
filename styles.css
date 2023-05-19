@@ -111,7 +111,7 @@ body {
 }
 
 .cabecario {
-    background-image: url(./imagens/bg-3.jpg);
+    background-image: url(./image/TI.png);
     height: 500px;
     background-size: cover;
     background-position: center;
@@ -208,5 +208,12 @@ footer {
     padding: 30px;
     text-shadow: 2px 2px 2px black;
     letter-spacing: 2px;
+<<<<<<< HEAD
 >>>>>>> aafe500 (Firts byrt)
+=======
+}
+
+h1 {
+    align-items: center;
+>>>>>>> ab0d484 (habla)
 }
